@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="bvbv" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\beafe\\source\\repos\\a\\a\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="a.Models.CO" description="" value="Data Source=(localdb)\mssqllocaldb;Initial Catalog=A;Integrated Security=True" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\beafe\\source\\repos\\a\\a\\obj\\Release\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\a\.Models\.CO\.sql$" />
+  </parameter>
+</parameters>

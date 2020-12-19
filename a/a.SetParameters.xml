@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="bvbv" />
+  <setParameter name="a.Models.CO" value="Data Source=(localdb)\mssqllocaldb;Initial Catalog=A;Integrated Security=True" />
+</parameters>
